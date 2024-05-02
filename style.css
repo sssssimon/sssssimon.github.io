@@ -1,0 +1,33 @@
+body {
+  color: #000000;
+  background-color: #DDDDDD;
+  max-width: 45em;
+  margin: auto;
+  padding: 1em;
+  line-height: 1.45;
+}
+.menu {
+  padding: 2px;
+}
+.menu li {
+  display: inline-block; 
+}
+
+.menu a {
+  font-size: 1.1em;
+  padding: 1px;
+}
+
+.menu,footer {
+  text-align: center; 
+}
+
+a {
+  color: #0000FF;
+  text-decoration: none; 
+}
+
+hr {
+  border-style: dashed;
+  color: #CCCCCC;
+}
