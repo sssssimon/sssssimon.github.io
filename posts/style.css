@@ -1,13 +1,13 @@
 body {
   color: #000000;
-  background-color: #DDDDDD;
+  background-color: #787878;
   max-width: 45em;
   margin: auto;
   padding: 1em;
   line-height: 1.45;
 }
 a {
-  color: #0000FF;
+  color: #DC98FF;
   text-decoration: none; 
 }
 
@@ -17,5 +17,5 @@ h1 {
 
 hr {
   border-style: dashed;
-  color: #CCCCCC;
+  color: #787878;
 }
