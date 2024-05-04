@@ -1,6 +1,6 @@
 body {
   color: #000000;
-  background-color: #DDDDDD;
+  background-color: #343434;
   max-width: 45em;
   margin: auto;
   padding: 1em;
@@ -23,7 +23,7 @@ body {
 }
 
 a {
-  color: #0000FF;
+  color: #DC98FF;
   text-decoration: none; 
 }
 
